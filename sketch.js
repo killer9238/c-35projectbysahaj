@@ -30,7 +30,7 @@ function draw(){
         changePosition(1,0);
     }
     else if(keyDown(UP_ARROW)){
-        updateHeight(0,-10)
+        
         changePosition(0,-1);
         
     }
